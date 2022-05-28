@@ -1,0 +1,17 @@
+#verdade{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 70px;
+  right: 150px;
+}
+
+#mentira{
+    width: 300px;
+    height: 200px;
+}
+
+#talvez{
+    width: 300px;
+    height: 200px;
+}
